@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MYO-Guide</title>
-    <link>http://localhost:1313/</link>
+    <link>https://myo-guide.github.io/MYOG-portal/</link>
     <description>Recent content on MYO-Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://myo-guide.github.io/MYOG-portal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ante mattis interdum dolor</title>
-      <link>http://localhost:1313/post/post2/</link>
+      <link>https://myo-guide.github.io/MYOG-portal/post/post2/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/post2/</guid>
+      <guid>https://myo-guide.github.io/MYOG-portal/post/post2/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://myo-guide.github.io/MYOG-portal/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://myo-guide.github.io/MYOG-portal/about/</guid>
       <description>MYO-Guide is a fully automatic pipeline for providing muscle disease diagnostic using MRI, composed of multiple tools that can be used independently:
  Individual muscle segmentation with Deep Learning Automatic fatty infiltration scoring Muscle disease diagnostic model MRI processing tools  MYO-Guide aims to provide clinicians and researchers with tools to accelerate diagnostic, image processing and investigation in muscle diseases.</description>
     </item>

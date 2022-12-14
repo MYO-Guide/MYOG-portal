@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/post/post2/</loc>
+    <loc>https://myo-guide.github.io/MYOG-portal/post/post2/</loc>
     <lastmod>2019-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://myo-guide.github.io/MYOG-portal/</loc>
     <lastmod>2019-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://myo-guide.github.io/MYOG-portal/about/</loc>
   </url>
   
 </urlset>
